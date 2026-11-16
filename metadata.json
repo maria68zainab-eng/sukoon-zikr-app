@@ -1,0 +1,6 @@
+{
+  "name": "Sukoon",
+  "description": "SUKOON – A Journey of Zikr: An immersive Islamic interactive Zikr and Tasbeeh app with progressive landscape transformations, Urdu and English translations, progress tracking, and an admin studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sukoon</string>
+    <string name="app_subtitle">A Journey of Zikr</string>
+    <string name="nav_sanctuary">Sanctuary</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_progress">Progress</string>
+    <string name="nav_admin">Admin</string>
+    <string name="todays_zikr">Today\'s Zikr</string>
+    <string name="start_zikr">Start Zikr</string>
+    <string name="continue_zikr">Continue Zikr</string>
+    <string name="verified_reference">Verified Reference</string>
+    <string name="sample_content_badge">Sample Demo</string>
+    <string name="spiritual_disclaimer">Visual landscape transformations are artistic representations of reflection, hope, and inner peace.</string>
+    <string name="local_mode_notice">Local Sanctuary Mode: Data is stored privately on this device (cloud sync requires Firebase).</string>
+</resources>
